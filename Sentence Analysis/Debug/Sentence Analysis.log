@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\nawaf11\documents\visual studio 2015\projects\sentence analysis\sentence analysis\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\nawaf11\documents\visual studio 2015\projects\sentence analysis\sentence analysis\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Sentence Analysis.vcxproj -> c:\users\nawaf11\documents\visual studio 2015\Projects\Sentence Analysis\Debug\Sentence Analysis.exe
+  Sentence Analysis.vcxproj -> c:\users\nawaf11\documents\visual studio 2015\Projects\Sentence Analysis\Debug\Sentence Analysis.pdb (Partial PDB)
